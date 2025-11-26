@@ -3,7 +3,7 @@ Universal Card Game Proxy Generator & Cutting Machine Companion
 
 Convert decklists into print-ready PDFs and cut files. Designed for any card game (with built-in support for Magic: The Gathering), featuring intelligent layout calculation, plugin-based data providers, and native support for Silhouette cutting machines.
 
-![License](https://img.shields.io/badge/license-GPLv3-blue.svg) ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue) ![Next.js](https://img.shields.io/badge/Next.js-16.0-black)
+![License](https://img.shields.io/badge/license-GPLv3-blue.svg) ![Node.js](https://img.shields.io/badge/Node.js-20+-339933) ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6) ![Next.js](https://img.shields.io/badge/Next.js-16.0-000000) ![React](https://img.shields.io/badge/React-19.0-61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC)
 
 ![proxNcut Screenshot](public/screenshot_placeholder.png)
 
